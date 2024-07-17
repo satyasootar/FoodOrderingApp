@@ -1,0 +1,22 @@
+{
+  "name": "foodorderingapp",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyasootar/food-ordering-app.git"
+  },
+  "author": "Satya Sootar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyasootar/food-ordering-app/issues"
+  },
+  "homepage": "https://github.com/satyasootar/food-ordering-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
